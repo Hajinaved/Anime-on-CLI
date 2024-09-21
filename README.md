@@ -59,7 +59,7 @@ You can open your Git Bash, then run `ani-cli --vlc` to search for your anime. A
 2. Run the command to search for your favorite anime:
 
    ```bash
-   ani-cli search 'Your Favorite Anime'
+   ani-cli search 'Your Favorite Anime' --vlc
    
 ### Option 2: Using Batch Files
 
