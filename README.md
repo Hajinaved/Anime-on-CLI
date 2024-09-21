@@ -82,7 +82,7 @@ to
 ```
 "C:\Program Files\Git\bin\bash.exe" --login -i -c "ani-cli 'one piece' --vlc"
 ```
-### Step 3:Save the file ,change the name if you want it.
+### Step 3: Save the file ,change the name if you want it.
 ### YOU WILL HAVE A SHORTCUT BAT FILE TO YOUR ANIME <3.
 
 
