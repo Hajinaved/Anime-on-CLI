@@ -56,11 +56,14 @@ You can open your Git Bash, then run `ani-cli --vlc` to search for your anime. A
 ### Option 1: Using the Command Line
 
 1. Open your terminal or Git Bash.
-2. Run the command to search for your favorite anime:
+2. Run the commands to search for your favorite anime:  
+```bash
+   ani-cli --vlc
+   ```
+3. Search for your anime.
 
-   ```bash
-   ani-cli search 'Your Favorite Anime' --vlc
-   
+
+then search for your anime.
 ### Option 2: Using Batch Files
 
 Run any of the following batch files to directly see the episode list:
